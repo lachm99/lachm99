@@ -11,7 +11,8 @@ I've produced a breadth of work, including:
 - Software and game development
 - Hobbyist web development
 
-I love problem solving and coming up with creative software solutions - and with each develop these skills just a bit more.
+I love problem solving and coming up with creative software solutions - and with each project I develop these skills just a bit more. 
+
 At this point, I've had experience using:
 - Python
 - Java
