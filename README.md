@@ -1,7 +1,7 @@
 # Hi, I’m Lachie
 _*Welcome to my GitHub!*_
 
-I'm a final year student from The University of Sydney, Australia, studying a BSci in Computer Science and Software Development - but I have a keen interest in all things technology and computation, so I've dipped my toes into lots of different fields.
+I'm a Computer Scientist and Software Developer with a BSci from the University of Sydney - but I have a keen interest in all things technology and computation, so I've dipped my toes into lots of different fields.
 
 This GitHub stores a number of disparate projects that I've worked on, mostly for Uni.
 I've produced a breadth of work, including:
